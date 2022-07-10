@@ -1,2 +1,2 @@
 # Python
-Practice python "Programming with mosh"
+Practice python and data structures
